@@ -39,7 +39,7 @@ When dealing Harm the MC my inflict any severity of Injury that is appropriate t
 
 ### Armor, Shields and other Equipment
 
-Armor is always considered as a single item.  You're either armored (Medium or Heavy) or you aren't.  Separate pieces of wear (chest, legs, etc) are not individually tracked.  Specifics about the benefits of armor are described in the [[DEEP_BLUE/rules/resources.md]] and [[DEEP_BLUE/rules/defiance.md]] sections.
+Armor is always considered as a single item.  You're either armored (Medium or Heavy) or you aren't.  Separate pieces of wear (chest, legs, etc) are not individually tracked.  Specifics about the benefits of armor are described in the [[rules/resources.md]] and [[rules/defiance.md]] sections.
 
 Shields have no inherent mechanical bonus (saves, dice, etc).  They only provide fictional presence. Characters holding a shield can take actions that other characters couldn't have attempted.  That's the real power of a shield.
 
