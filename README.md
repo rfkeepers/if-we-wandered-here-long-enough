@@ -26,13 +26,13 @@ You like western fantasy RP with a narrative focus. You're more interested in pe
 
 ## What's different about this game?
 
-Two systems may stand out to veteran PbtA players.  First, NPCs aren't overcome by tracking hp or conditions or clocks. The PCs have to break down their defenses, in fiction, in full detail.  This is explained in detail on the [[DEEP_BLUE/rules/npcs.md]] page.
+Two systems may stand out to veteran PbtA players.  First, NPCs aren't overcome by tracking hp or conditions or clocks. The PCs have to break down their defenses, in fiction, in full detail.  This is explained in detail on the [[rules/npcs.md]] page.
 
 Second, the basic moves in this game are a bit different.  There is an implicit assumption that most actions (really, most of them) get handled without rolling.  The MC makes a move and the conversation continues.  Of the times you do roll (for basic moves, anyway), you're either getting some kind of knowledge, or making one of three very pointed actions: **Separating** them from what they have, **Interfering** with them, or sacrificing what you have to **Risk Everything**.
 
 That may not sound like much, but it ends up playing quite a bit different from other pbta.  The MC makes a lot more moves, both hard and soft, without the players ever making a roll. That can feel pretty weird, if you're not used to it.
 
-If you want to read my whole silly brain-dump on why I'm pushing for these changes (not at all required to play or understand the game), I have that in [[DEEP_BLUE/about-this-game/experiments.md]].
+If you want to read my whole silly brain-dump on why I'm pushing for these changes (not at all required to play or understand the game), I have that in [[about-this-game/experiments.md]].
 
 ## State of completion
 
