@@ -1,4 +1,4 @@
-# Conversation Moves
+# As Conversations
 
 Conversation moves are frames for handling the fiction through pure conversation.  So, they're moves that use conversation for resolution, not moves that resolve character conversation.  
 
@@ -6,13 +6,15 @@ Why have a move at all, if it doesn't involve a random resolution?  Because proc
 
 All of these moves operate on an unspoken rule that the established fiction (both the previously stated truths about a character as well as the facts on their character sheet) still have a hand in determining the success and consequences. They may not be referred to directly -no move will tell you to check if the character has a matching Approach or Resource- but these things should count in the evaluation in some way.
 
+---
 
-## Defy Consequences
+###### Defy Consequences
 
 When you defy fate and narrowly save yourself from terrible Harm or danger at the last moment, narrate how you do it and spend any one **Save** that matches the action.  If you have no appropriate Saves, you cannot defy the consequence; check out **Take Harm** instead.
 
+---
 
-## Pressure Someone
+###### Pressure Someone
 
 When you pressure someone to do something for you against their better judgement, tell the owner of that character (usually the MC) what you want them to do, and how you approach asking (or compelling) them to do it.  That owner chooses one from the following options:
 
@@ -23,8 +25,9 @@ When you pressure someone to do something for you against their better judgement
 
 The way you approach pressuring a character will influence which option their player picks. Assume that every character will cave to easily to certain pressures yet stand resistant to others.
 
+---
 
-## Overcome an Adversary
+###### Overcome an Adversary
 
 When you have dismantled or broken through all of your adversary's defences and resistances (or gained an unlikely opportunity and slipped between them), you may strike the final blow and overcome them.  No rolls, no second chances- you just do it.  You've earned that opportunity.  Say how.
 
@@ -34,8 +37,9 @@ Getting past your adversary's defences is not flavor text, it's a requirement.  
 
 Similarly, an "Adversary" can be interpreted as liberally as you want.  It doesn't have to be combative, or even antagonistic.  It's anyone or anything that prevents you from achieving what you want. The player tells the MC what they want, and the MC says they can't have it yet: now you have an adversary.
 
+---
 
-## Help Out
+###### Help Out
 
 When you try to help another character do something that would have been difficult or impossible on their own, first answer the following questions.
 
@@ -49,8 +53,9 @@ Otherwise, you can join them, and in doing so open yourself up to all of the sam
 - They couldn't have done it alone, but the two of you together can do it.
 - They accomplish more than they could have just by themselves.
 
+---
 
-## Produce a Resource
+###### Produce a Resource
 
 When you take a moment and search through your supplies and pull out a Resource, tell the MC what you're getting, mark off the supply you're using up (the supply type must match the kind of Resource you want to produce); now you have it.
 
@@ -66,8 +71,9 @@ Every Resource must describe:
 
 Resources produced from Supply always have 0 worth.  Though they may still be valuable to a particular someone or something.
 
+---
 
-## Conjure Through Ritual
+###### Conjure Through Ritual
 
 When you have time and safety to dedicate yourself to an arcane ritual, tell the MC what you're trying to achieve, and they'll tell you one or more of the following requirements.
 

@@ -25,7 +25,7 @@ Everyone at the table is expected (and encouraged!) to interpret Approaches with
 
 ## Defiance
 
-> (Side note: more on this in [[rules/defiance.md]]).
+Side note: more on this in [[rules/defiance.md]].
 
 Characters begin the game with 2 total points of _Defiance_, which can be distributed across their four Defiances: Force, Skill, Charm, and Intuition. The distribution can either stack both points on a single defiance, or split them between two. 
 

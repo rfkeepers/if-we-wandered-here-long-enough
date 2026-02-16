@@ -4,11 +4,9 @@
 
 Each feature in this playbook starts with two unique approaches.  See the Feature for more.
 
-## Core
+## Core Feature
 
-### Feature
-
-#### Not of this Land
+### Not of this Land
 
 Many adventurers can claim themselves well-traveled.  Having seen both the east and the west, walked mountains and sailed seas, tasted spiced fruits and smoked meats.  Yet, if asked, they claim this as a thing they do, not the person they are.  All they do is see and walk and taste these places.  They do not _live_ them.
 
@@ -19,7 +17,7 @@ Pick one of the following during character creation, and only one.  Keep in mind
 
 ---
 
-##### Bard
+#### Bard
 
 The widely and enthusiastically traveled poet.  Broadly knowledgable in all affairs of intrigue and politics.  You have friends, enemies, and rivals across the land all in equal measure.  All applaud your arrival, and none bar your departure.
 
@@ -59,7 +57,7 @@ The next time you **Elicit Feelings**, before you roll, read those Conditions ba
 
 ---
 
-##### Conquerer
+#### Conquerer
 
 Monarch, away from your throne, here to establish a territory for yourself.  Are you reclaiming a lost seat of power, or do you seek to build one anew?
 
@@ -110,7 +108,7 @@ One of your retainers, unable to bear to see your suffering, snaps.  Either thei
 
 ---
 
-##### Ranger
+#### Ranger
 
 Some travel between nations; you abandoned nations altogether.  Walker of all paths; drinker of every spring; hunter, protector, and friend to all beasts and birds.  No other knows every corner of the wild world as you do.
 
@@ -152,7 +150,7 @@ Don't join back up with your friends right away.  Take a scene to yourself first
 
 ---
 
-##### Outlaw
+#### Outlaw
 
 Having a name and reputation comes in handy, if you know how to wield 'em right.  Most trouble'll back off when you let 'em know who you are. The fools may not; but you've never let a fool stand in your way. That'd tarnish the reputation. Best, though, is that most times folk don't even care to ask.  And that's just what you need.
 
@@ -187,7 +185,7 @@ If you settle the score with that old acquaintance for good, reset your Safety t
 
 ---
 
-##### Stranger from a Strange Land
+#### Stranger from a Strange Land
 
 "You aren't from around here," doesn't cut it.  No one knows where you're from.  Or how you got here. Sailed across the uncrossed sea?  Slipped through the grove that grows between planes? Discarded upon a doorstep by the fae?  This isn't your world.  You aren't supposed to be here.
 
@@ -221,7 +219,7 @@ For the briefest moment, before you can catch yourself, you do a behavior that i
 
 ---
 
-##### Expatriate Shopkeeper
+#### Expatriate Shopkeeper
 
 Home- your true home- is a place long gone for you. Perhaps not for the world, it may still exist.  But, whatever the reason, it's no longer a place for you.  You're elsewhere now, holding down a strange little shop that captures the locals' adoration and consternation in equal measure.  It's a living.  And you're very good at living.
 
@@ -260,8 +258,6 @@ Roll 1 die and match it to the table below.  The next time you go to your shop:
 - 5: Disaster strikes: fire, flood, gremlins, angry patrons, etc.  What happens?
 - 6: Someone has come by to make you an offer that's too good to be true.  What are they offering, and why shouldn't you trust them?
 
----
-
-### Moves
+## Core Moves
 
 All initial moves are tied to the Traveler's features.

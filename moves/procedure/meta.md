@@ -1,11 +1,12 @@
-# Meta Moves
+# Meta Reference
 
 Meta moves walk though the framework for playing the game.  On one hand, you probably don't need these- especially if this isn't your first time at the PBtA rodeo.  The "moves" here are a serialization of common conventions within that system, and don't deviate in any special way.  Once you have them under your belt you probably won't need to come back and look anything up.
 
 On the other hand, every now and then you may start asking, "did the author _really_ intend for us to run the game like this?"  When that happens, come back and look at these moves. Hopefully that answers your questions.
 
+---
 
-## Have a Conversation
+###### Have a Conversation
 
 When you **sit down and play this game together**, all participants join in for a conversation about what happens, both in and out of (though primarily inside) the shared narrative space of the game.
 
@@ -18,13 +19,15 @@ There is no turn order, no time limit, and no requirements about when, how, or a
 3. Stick to your Principles and Agendas, as described in the game.
 4. Follow the rules whenever they apply.
 
+---
 
-## Say What You Do
+###### Say What You Do
 
 When you tell the MC or another player what you do, you do it.  If that doesn't trigger a move, then the MC may make a move as a consequence.
 
+---
 
-## Follow the Flowchart
+###### Follow the Flowchart
 
 You don't have to follow this flowchart for _all sequences_ of play.  And you definitely should not think of this as "a phase of play we step into and out of".  Most of the time, play should flow naturally through the conversation.  That includes the pattern of spotlight switches, rules resolution, and the back and forth between the MC and players for moves and comments alike.
 
@@ -43,8 +46,9 @@ However, **whenever the scene has too much going on at once and it's getting dif
 6. Does anyone Escalate the Situation? 
 7. Return to the start.
 
+---
 
-## Roll the Dice
+###### Roll the Dice
 
 When the rules tell you to Roll:
 
@@ -60,8 +64,9 @@ Roll the dice and count your hits.  The number of pips determines whether the di
 
 Finally, return to the current Move and do what it tells you, depending on the results.  Most moves will bucket results into categories like 2+, 1, 0, which refers to the number of hits rolled.
 
+---
 
-## Resolve Uncertainty
+###### Resolve Uncertainty
 
 When the conversation stalls and the MC and players all look to each other with an uncertain shrug, the MC pauses the game and walks the table through the following steps.  You can stop and return to the game at any time.
 

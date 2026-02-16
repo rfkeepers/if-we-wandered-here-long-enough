@@ -23,20 +23,20 @@ Means "Roll exactly that many dice".  For example, "Roll with 2 dice" means exac
 ## Other vocabulary
 
 **Die**: A six-sided die.  No other die sizes are used.  
-
+  
 **+1**: add one additional die to the roll.  
 **-1**: remove one die from the roll.  
-
+  
 **Hit**: A successful result on a die.  
 **On a Hit**: do this if any number of dice Hit.  
-**On every Hit**: do this for every die that Hits.
+**On every Hit**: do this for every die that Hits.  
 **Miss**: An unsuccessful result on a die.  
 **On a Miss**: do this if any number of dice Miss.  
 **On every Miss**: do this for every die that Misses.  
-
+  
 **Advantage (adv)**: Add 1 Hit to the roll results.  
 **Disadvantage (dis)**: Remove 1 Hit from the roll results, if any occurred.  
-
+  
 **2+**: Any roll outcome where two or more dice hit.  
 **1**: Any roll outcome where only one die hits.  
 **1-**: Any roll outcome where only one, or zero, dice hit.  

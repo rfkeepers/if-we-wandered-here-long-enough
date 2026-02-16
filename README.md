@@ -4,15 +4,15 @@ A fantasy PbtA for a city, a dungeon, and a doom, by Keepers of Innumerable Engi
 
 ## What is this?
 
-_If we wandered here long enough_ is a tabletop rpg that sprung from a collage of inspirations.  Above all, it is:
-
 ### A love letter to _Delicious in Dungeons_
 
 There's so much that I adore about _Delicious in Dungeons_.  The vulnerable sincerity of its characters.  The way it can criminally undersell a liminal space of incredible scope and majesty. How every swing of a sword either will either plunk off the armor or decapitate someone. That the story is always moving forward to new questions instead of folding back in on itself to revisit the same motions with new spectacle.
 
 That said, this game is not trying to be _Delicious in Dungeons_.  It is interested in sincerity and liminal space and the importance of swinging a sword. But it's not about cooking meals or gathering monster parts or half-foots.  It's an homage, not a recreation.
 
-### An experiment in what actions require a roll and what abstractions are necessary for conflict resolution
+### An experiment
+
+Specifically: what actions require a roll and what abstractions are necessary for conflict resolution?
 
 In the wake of the release of Dungeon World 2's alpha (now referred to as version Blue), the DW+ discord was a raucous brawl of ideas. VBlue started the dust-up and we, the gallery, were taking swings at all the fundamentals.  DW2 has since gone down its own (truly fantastic) path, yet in the aftermath I'm still obsessed with all those wonderful conversations.
 
@@ -87,4 +87,3 @@ The full list of conditions is largely a transplant and slight re-imagining of Q
 
 This is one of the more sideways additions to the game, but the _Attention Tokens_ go to Jenna Moran.  In _Glitch_ the system is a bit less metaphysical and has some in-fiction hooks (though I'm not sure how much that's really saying, given the setting of the game). Here, it's pure meta-gaming.  And, in practice, that's fine by me. The players at my tables like it just fine.
 
-## About the name

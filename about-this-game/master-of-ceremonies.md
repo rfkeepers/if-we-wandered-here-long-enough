@@ -1,8 +1,8 @@
 # Master of Ceremonies
 
 > Designer note: I am having a hard debate on whether this role should be called the `Lunatic Magician`, in reference to _Delicious in Dungeons_.
-
-> Designer note: Each of these should get a blurb later on.
+>
+> Also, each of these points would ideally get a blurb.
 
 ## Principles
 
@@ -27,7 +27,7 @@
 - Put people or things in lousy spots.
 - Tell them the consequences, then ask if they follow through.
 - Announce impending trouble.
-- **Escalate the Situation**
+- Use an NPC Escalation.
 
 ### Sideways moves
 

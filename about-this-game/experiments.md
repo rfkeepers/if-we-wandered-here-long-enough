@@ -6,8 +6,6 @@ The tone used in this writing is, well, authoritative, might be the word? I forc
 
 No matter how convinced I may sound below, I can assure you that I don't think of these convictions as bulletproof, and I welcome any position and argument that I could be wrong.
 
----
-
 ## Experiment 1 - Risk and Uncertainty
 
 I have a frustrating relationship with the move **Defy Danger** from Dungeon World 1.  It's not a bad move. It's well written, concise, and- especially if the GM is experienced with using their moves- can handle nearly any risk with relative elegance.  Hell, you can [build whole games](https://johnharper.itch.io/world-of-dungeons) around [the concept](https://spoutinglore.blogspot.com/2020/02/defying-danger-rpg.html).

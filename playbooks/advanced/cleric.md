@@ -13,13 +13,13 @@ Should be: proud, social, political, codependent.
 - Enact the will that granted you power.
 - TBD
 
-## Core
+## Core Feature
 
-### Feature
-
-#### Divine Source
+### Divine Source
 
 Your power is not your own.  You are a vessel for something or someone else: A deity, the venerable ancients, spirits of the land, hungering lord of all devils, or perhaps some wailing and limitless machine (hereafter, all are referred to as "your deity").  Whichever it may be, it uses you as it would a conduit- the channel through which it pours its influence into the world.
+
+---
 
 First, how did you come by your power?
 
@@ -28,9 +28,11 @@ First, how did you come by your power?
 - **Benefactor** - They're your patron; it's just business.
 - **Chosen** - You had no say in the matter.
 
+---
+
 Second, pick the tenets of their domain.
 
-##### Crafting
+#### Crafting
 
 They want you to: Produce a work showcasing your mastery.
 They hate it when you: Desecration of great works or places of work.
@@ -41,7 +43,7 @@ They allow you to: Pick one:
 - Your bare hands are impervious to heat and flame.
 - Your bare hands can hammer metal as if they were made of stone.
 
-##### Order
+#### Order
 
 They want you to: Enforce and protect the laws of man.
 They hate it when you: Upset the balance of established power, or usurp authority.
@@ -49,7 +51,7 @@ Their power provides: Safety, Communication
 
 They allow you to: Place a simple, restrictive command upon an inanimate object. No natural force in the world may break that command.  Ex: "no one can move you," or, "you cannot enter the palace," or, "you cannot be found by the Marquis".
 
-##### The Hearth
+#### The Hearth
 
 They want you to: Go out of your way to offer help to the needy.
 They hate it when you: Suffer someone in need to go without aid.  Exhaust efforts helping those who punish others.
@@ -57,7 +59,7 @@ Their power provides: Growth, Healing
 
 They allow you to: Erase pain and mend wounds after merely an hour of ritual prayer (or some equivalent act of devotion).
 
-##### War
+#### War
 
 They want you to: Bring a mighty opponent to their knees.
 They hate it when you: Deescalate a conflict.
@@ -65,7 +67,7 @@ Their power provides: Purifying Flame, Disorder
 
 They allow you to: Summon your deity's chosen weapon (say what it is, and what it looks like).
 
-##### Purity
+#### Purity
 
 They want you to: Destroy something that has been contaminated.
 They hate it when you: Tell a lie, spread rumors, or manipulate emotions.
@@ -73,7 +75,7 @@ Their power provides: Light, Purifying Flame
 
 They allow you to: Extract poison, rot, mold, decay, or foulness.
 
-##### Exploration
+#### Exploration
 
 They want you to: Get utterly lost with someone else.
 They hate it when you: Lead an unwitting person into danger or give false directions.
@@ -81,6 +83,7 @@ Their power provides: Communication, Knowledge
 
 They allow you to: Connect the entrance of any tent you pitch to a large and well-stocked yurt or cabin.  Say what the interior looks like (you get taken to the same place, every time).
 
+---
 
 Finally, name your deity, and pick one of the following:
 - They (or a minion of theirs) are always nearby.  What do they look like?  Can everyone see them, or just you?
@@ -88,11 +91,9 @@ Finally, name your deity, and pick one of the following:
 - You carry around a piece of their body.  Say what it is, and what it looks like.  Where do you keep it?  Are you secretive about having it, or do you flaunt it?
 - You carry a contract stating the tenets of your connection.  Say what it looks like, and how you keep it safe. What would happen if someone else got their hands on it? What would happen if it were destroyed?
 
----
+## Core Moves
 
-### Moves
-
-#### Invoke the Divine
+###### Invoke the Divine
 
 When you call upon your deity's power, say what you ask for, answer the following questions, then roll it.
 
@@ -107,7 +108,7 @@ Regardless of the roll, divine authority is unleashed upon the world, mighty and
 
 (description: This move cannot perform a meager task, such as to light your path or heal a wounded ally.  The power of the divine is a akin to the forces of nature. It crashes through cities and reshapes the land.  You, brave or stupid as you may be, have called that power onto the world.)
 
-#### A Conduit For the Divine
+###### A Conduit For the Divine
 
 - Divine: 〚 〛
 
@@ -117,11 +118,11 @@ The MC may spend a Divine at any time to do the following:
 - Empower or disempower you: take advantage or disadvantage on a roll.
 - Lash out using their power: they'll tell you how your divine reaches out and affects the world.
 
-#### Perform a Cantrip
+###### Perform a Cantrip
 
 When you exercise the power your deity has given you (that thing they allow you to do), you do it.  Your deity would never let you blunder such a simple use of their power.
 
-#### Limit Break
+###### Limit Break
 
 Catastrophe: 〚 〛-〚 〛-〚 〛-〚 〛
 

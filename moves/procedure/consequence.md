@@ -1,9 +1,10 @@
-## Consequence Moves
+# Handling Consequences
 
 These moves detail the procedures around taking Harm, Damage, or other consequences.  They belong to the procedure set because they focus on walking you through the process. None of the moves here generate new fiction on their own.
 
+---
 
-## Take Harm
+##### Take Harm
 
 When you take Harm, answer the following questions in order.  Stop after you answer 'yes' to any question.
 
@@ -15,16 +16,18 @@ When you take Harm, answer the following questions in order.  Stop after you ans
   - Does this bump up a tier from Broken to Fatal?  If so, immediately check Take a Fatal Injury.
   - Add the Injury to the first available slot, then narrate what it looks like when you take the blow.
 
+---
 
-## Break Your Limits
+###### Break Your Limits
 
 When you mark a fifth condition, 
 1. Mark Experience.
 2. Use your playbook's **Limit Break**.
 3. Erase four of your conditions.  Normally, this leaves you with 1.  If your Limit Break added another condition, you may have two or more afterward.
 
+---
 
-## Take a Fatal Injury
+###### Take a Fatal Injury
 
 When you take a Fatal Injury, choose one from below:
 - **Take a lasting reminder**. You're out for the rest of the scene.  Describe a permanent impairment to your body (such as the loss of a limb or a hideous scar) that you'll be left to carry, forever.
@@ -40,8 +43,9 @@ List of Emotional Scars:
 - Haunted
 - Volatile
 
+---
 
-## Escalate the Situation
+###### Escalate the Situation
 
 When a character Escalates the situation, the owning player (often the MC) narrates the escalation, including the introduction of new characters, obstacles, or environmental effects.  Escalations will significantly rearrange the position of all characters present in the scene.  Players should expect to readdress their situation afterward.
 

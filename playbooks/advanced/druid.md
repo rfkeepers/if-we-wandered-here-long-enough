@@ -13,11 +13,9 @@ Should be: physical, unconventional, floral or bestial.
 - TBD
 - TBD
 
-## Core
+## Core Features
 
-### Features
-
-#### Child of the Wilds
+### Child of the Wilds
 
 You were raised in a crib of thistles, learned to walk while stepping over snakes, learned to swim braving torrents of rivers, you hunted and fed by tooth and nail.  You learned, eventually, to speak works instead of uttering growls, and to dance to instruments instead of moonlight. But the wilds are always inside of you, and the reek of a city never leaves your nose.
 
@@ -25,24 +23,25 @@ Pick the way that the wilds have changed you.
 
 ---
 
-##### **Shape-Shifter**
+#### Shape-Shifter
 
 Pick three creatures and write them down.  You may _Shapeshift_ into any of these forms.  When you advance this feature, add two more creatures to your list of forms.
 
 Animal Forms:
-- _______________
-- _______________
-- _______________
+
+-  
+-  
+-  
 
 Also: Pick an animalistic tell (a physical attribute like: antlers, feathers, fur, etc) and incorporate it into your look. Your tell remains no matter what other changes happen to your body. The intensity of your tell increases or decreases along with your **Feral Instincts**.
 
-###### **Shapeshift**
+##### Shapeshift
 
 When you change your body into one of your animal forms, mark _wild_ and roll with feral instinct. On 2+: you change quickly and without issue. On 1: it takes additional time and effort, or you attract unwanted attention. On a 0: the MC makes a move.
 
 Your new shape is limited to the animal you become. Your strengths and weaknesses, size, and communication is the same as that creature’s. So long as you’re not locked into your **Feral Instincts**, returning to your original form is always a quick and easy process.
 
-###### **Chimera**
+##### Chimera
 
 When you **Shapeshift** and push your form beyond it's natural limitations, mark an additional _wild_ to bend nature to your want.  You may do either or both of the following:
 - Grow as large or as small as you want.
@@ -69,7 +68,7 @@ If you are shapeshifted, immediately return to your human form.
 
 ---
 
-##### Floral-Feral:
+#### Floral-Feral:
 
 Sometimes, your body is covered in thorns or spines, all protruding through your skin; say what they resemble (brambles, cactus, nettles, or something else?). They're not very comfortable but, for you, they're relatively safe.  Anyone else who gets pricked or scratched by them experiences terrible pain, or worse.
 
@@ -104,7 +103,7 @@ Your spines recede, and you flowers bloom. If your flowers are already bloomed, 
 
 ---
 
-##### **Hive-Host**
+#### Hive-Host
 
 Your body provides a living nest to a swarm of critters. It bustles with all the din and fuss of a thriving community.  They are largely autonomous, self-sufficient, and independent (you are merely a host organism, after all; not their queen).  Yet, the relationship is symbiotic, and they do, in some fashion, abide your will.
 
@@ -112,7 +111,7 @@ Only the mature drones and militant members leave the hive, while the breeders a
 
 When you advance this feature, select a poison and add "The swarm injects my target with their venom" to the options for Swarm.  Only one poison may be afflicted at a time.
 
-###### **Swarm**
+##### Swarm
 
 When you release your swarm into the world, mark wild and roll with **Feral Instincts**.  For each hit (max 2), choose one:
 - The swarm distracts, intimidates, or exhausts my target.
@@ -129,7 +128,7 @@ The hive recedes into your body, dormant, restful.  It will not appear again, ev
 
 ---
 
-##### **Bark-Skinned**
+#### Bark-Skinned
 
 The wilds are not merely a power you call upon or employ.  They have transformed you: physically, outwardly, undeniable and impossible to disguise.  You have become a wild monstrosity.  Pick one from the list below.  When you advance this feature, pick another.
 
@@ -143,7 +142,7 @@ The wilds are not merely a power you call upon or employ.  They have transformed
 - **Batwing**: The enormous, leathery wings attached to your sides and the undersides of your arms can be spread wide to glide through the air.  They're even usable for short bursts of flight.
 - **Snakespine**: Instead of legs you have a slender, snaking body, covered in glistening reptilian scales.  Much longer that most people are tall.  You can slither along the ground, and through small spaces, like any snake could.
 
-###### **Inhuman**
+##### Inhuman
 
 When you tap into the latent talents of your warped body, mark wild and tell the MC how you do something no human possibly could with their frail flesh and dull senses.
 
@@ -161,7 +160,7 @@ In addition to the standard means of clearing it, you can seek _catharsis_ by in
 
 ---
 
-##### **Were-thing**
+#### Were-thing
 
 You have a beast inside of you.  Or, perhaps, you are a beast, and your ego is trapped inside it.  Maybe the two are one. Is this simply is who and what you are? A beast and a person, inseparable in nature, two eggs in the same shell?  The feeling ebbs and flows.  Some days it seems like one, some days the other.
 
@@ -187,22 +186,22 @@ Immediately Wolf Out (if you aren’t already) and Escalate the Situation, causi
 
 Immediately return to your human form (if you were shifted). You lose touch with your bestial side and cannot mark wild again, or use any move that marks wild (including Wolf Out) until you've wolfed out again.  The next time you **Break Your Limits**, instead of the normal consequences, erase all conditions and then Wolf Out as if you rolled 2+.
 
-### Moves
+## Core Moves
 
-#### **Feral Instincts**
+###### Feral Instincts
 
-  |----|--|--|--|----|
-Civil -1  0 +1 +2   Wild
+|--- --- ---|------|------|------|--- --- ---|  
+Civil .. -1 .. 0 .. +1 .. +2  ..  Wild
 
 You embody the struggle between wilderness and civilization. Start at 0. When a move says to mark wild, move your mark 1 step to the right. When a move says to mark civil, move it 1 to the left. Anytime the GM makes a move, they may shift your instincts civil or wild by 1.
 
 When you reach wild your **Feral Instincts** overtake you. When you reach civil, you lose your connection to nature. In either case, mark 1 xp and follow your chosen feature for guidance.  After the effect subsides, your instinct returns to 0.
 
 
-#### Get In Touch With Your Inner Human
+###### Get In Touch With Your Inner Human
 
 Whenever you **Comfort and Care**, you can put a Feral Instinct at stake instead of a Condition.  If it works, mark civil.
 
-#### **Limit Break**
+###### Limit Break
 
 Immediately push your **Feral Instincts** fully civil or wild, your choice.

@@ -10,9 +10,12 @@ It is not about managing mechanical attrition ("I'm down to my last two saves, p
 
 You'll know your table has hit the right stride when you see a scene unfold like this:
 
-> The MC makes a move with a hard consequence- the knight swings their enormous mace, smashing you aside: take a Wound- and the affected Player says, "ok, sure".
-> They try to disarm the knight, roll 0, and watch their own sword snap under the strain.  "You can defy that," the MC may remind them.  The player responds, "Nah, this is good stuff."
+> The MC makes a move with a hard consequence- "the knight swings their enormous mace, smashing you aside: take a Wound"- and the affected Player says, "ok, sure".
+>
+> They try to disarm the knight, roll 0, and watch their own sword snap under the strain.  "You can defy that," the MC may remind them.  The player responds, "Nah, this is good stuff.
+>
 > The MC follows with another hard move: "the knight raises their mace like a judge's gavel and shouts, "none may defy the king!", before bringing it down on your head.  Take an injury.
+>
 > The player rebuts, "Heh, nope, I defy that, with Force.  I catch the mace in my hands and shout, 'Fool! I am the true king!'"
 
 

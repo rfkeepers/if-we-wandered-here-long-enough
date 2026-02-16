@@ -89,12 +89,14 @@ Each Supply carried by a player has to list its type. Characters can only produc
 
 Ex:
 
-> 1. Crafting (Laceweaving)
-> 2. Crafting (Laceweaving)
-> 3. Crafting (Laceweaving)
-> 4. Research (Monsters)
-> 5. Adventuring
-> 6. Adventuring
+```
+1. Crafting (Laceweaving)
+2. Crafting (Laceweaving)
+3. Crafting (Laceweaving)
+4. Research (Monsters)
+5. Adventuring
+6. Adventuring
+```
 
 Some Conditions will force you to consume 2 supplies to produce a single Resource.  When this happens, the supply types don't have to match each other.  Say which supply is the one you're producing, then strike out one more supply of your choosing.
 
@@ -129,7 +131,3 @@ Some Conditions will force you to consume 2 supplies to produce a single Resourc
 - Tags: Heavy, Clumsy
 - Refresh on Rest.
 
-
-
-
-side thought: tier of item.  Higher tiers cost more to gain.
