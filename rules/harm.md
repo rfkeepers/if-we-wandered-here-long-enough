@@ -6,8 +6,6 @@ Harm is a very specific kind of consequence: the kind you write on your characte
 
 Harm is split into three primary categories: Conditions (emotional and mental problems), Injuries (bodily problems), and Burdens (situational problems; usually affecting the group).
 
----
-
 ## Injuries
 
 Injuries form the "bodily" portion of Harm management.  Cuts, bruises, and broken bones, sure.  But also headaches, lack of sleep, and fevers.
@@ -44,8 +42,6 @@ Armor is always considered as a single item.  You're either armored (Medium or H
 Shields have no inherent mechanical bonus (saves, dice, etc).  They only provide fictional presence. Characters holding a shield can take actions that other characters couldn't have attempted.  That's the real power of a shield.
 
 All other equipment follows the same rule.  Having it is exactly as useful as it sounds.  There's no further attempt to abstract the benefits into a mechanical form.
-
----
 
 ## Conditions
 
@@ -125,8 +121,6 @@ The following is an exploration of Conditions and their effects.  If you can't f
 If you want to dive deeper and explore how your character works through, or lives with, a certain condition (or by **Breaking Their Limit**), that's great! I recommend that you first pause play and start a conversation about it with your table to discuss this want.  Talk about why you want to dig into with this exploration, what you'd like them to help you discover or reveal about your character, and ask if they'd like to help you navigate the topic.
 
 Digging into conditions and breakpoints can be a lot of fun.  It can also be emotionally taxing and difficult to handle properly.  Remember to take breaks, review your safety tools, and talk it out as a group.
-
----
 
 ## Burdens
 

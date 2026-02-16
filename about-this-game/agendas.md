@@ -1,6 +1,7 @@
 # Agendas
 
 > Developer Note: This is currently words for their own sake. Not that I haven't made a sincere attempt to say the right things in the right way. I really have tried to get it right. More like, I don't quite know what "right" means for these agendas yet.  Not completely.
+>
 >  What I have here feels close, but also off the mark. I, too, am figuring it out as I go.  It's better to start by putting something down than to wallow on nothing.
 
 ## This game wants to explore
@@ -24,8 +25,6 @@ Most importantly of all, none of these characters are stationary. Each one has a
 A terrible doom peeks over the horizon.  Something comes for the dungeon.  An end?  Or perhaps a new beginning.  The powers outside, pushing in?  The secrets beneath, seeping out?  The turmoil throughout, boiling over?
 
 Your story, this game, is about how players overcome that Doom. Whatever tragedy, sacrifice and reshaping of the land is necessary, you will persevere.  The question is how you do it, how the dungeon transforms throughout, and where you find yourself by the end.
-
----
 
 ## Player Agendas
 
@@ -60,8 +59,6 @@ Let this game compel your curiosity. What is it that your character lacks, or ha
 You have all come together, to this game, at your table, to play to find out what happens. That makes you creators as much as players.  You are carpenters who erect set pieces, playwrights who script the lines, actors who perform the scene and audience to revel in it.  This is your chance to embrace all of it.
 
 Doing this together means sharing in the responsibilities.  Take your spot in the spotlight!  And shine it on your fellow players, too.  Write your interesting ideas into the fiction!  And ask the writers room for guidance and ideas, too.  Set the scenes you want to lead!  And take a supporting role when others get theirs.
-
----
 
 ## MC Agendas
 

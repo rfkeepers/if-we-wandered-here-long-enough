@@ -11,15 +11,15 @@
 - Employ taboo or apocryphal measures to get results.
 - TBD
 
-## Core
+## Core Features
 
-### Features
-
-#### Schools of Magic
+### Schools of Magic
 
 The Prima Principa of arcanistry set forth five _axioms_, and, through those _axioms_, a multitude of _virtues_, defining the cosmology of all.  It is with these _axioms_ that the world may manifest as stable and contiguous law.  Leveraging stable law, the _virtues_ beget motion, birth, and entropy.  And by motion that we master the _virtues_ to wrest the law of all from the _axioms_.  Thus do we shape the cycle.
 
 At character creation, mark two _Axioms_ and gain their Adept _virtues_. You can only **Ply the Arcane** from _Axioms_ you've marked.
+
+---
 
 **Lux** (_Light, Shadow_)
 - Adept: _Create a fleeting_
@@ -46,9 +46,9 @@ At character creation, mark two _Axioms_ and gain their Adept _virtues_. You can
 - Expert: _Sculpt_
 - Master: _Detonate_
 
-### Moves
+## Core Moves
 
-#### **Ply the Arcane**
+###### Ply the Arcane
 
 When you have a couple controlled moments to safely manipulate reality by arcane procedure: combine an _axiom_ and _virtue_ from your available schools, say what you want to happen, and roll it.
 
@@ -63,7 +63,7 @@ On a Hit, you cast the spell, more or less like you intended.
 
 0: How badly can you warp reality by trying to make the fundamental laws of the universe lie to themselves? The MC will say. Prepare for the worst.
 
-#### Sorcerer
+###### Sorcerer
 
 When you **Ply the Arcane** in haste, by instinct, or through sudden reaction, roll 2 dice and set them aside, then roll Ply the Arcane.  Compare the dice rolled by each move.  If either Sorcerer die matches a number on a Ply the Arcane die, do the following:
 
@@ -71,14 +71,14 @@ If at least one die matches: the spell is warped, surprising, or tumultuous.  Th
 
 If both dice match: pick one of the entries from the table below.  It must match one of the dice rolled by Sorcerer.  This effect replaces the _Axiom_ or _Virtue_ you intended to wield.
 
-1. _Axiom_: **Anima** (Life, Spirit)
-2. _Axiom_: **Sors** (Fate)
-3. _Axiom_: **Aevum** (Time)
-4. _Virtue_: _A thousand butterflies of..._, _streaming ribbons of..._
-5. _Virtue_: _A thick fog of..._, _a steady rainstorm of..._
-6. _Virtue_: _Reverse_, _shatter_, _distort_
+1. Axiom: **Anima** (Life, Spirit)
+2. Axiom: **Sors** (Fate)
+3. Axiom: **Aevum** (Time)
+4. Virtue: _A thousand butterflies of..._, _streaming ribbons of..._
+5. Virtue: _A thick fog of..._, _a steady rainstorm of..._
+6. Virtue: _Reverse_, _shatter_, _distort_
 
-#### **Limit Break**
+###### Limit Break
 
 You gain a sudden- maybe even apocryphal- understanding of how the universe truly is, or how it should be, or how you need it to be.  An epiphany so thorough and absolute that before you can come to terms with it you've bled the idea into the fabric of reality: the world around you now holds the belief as firmly as you do.
 

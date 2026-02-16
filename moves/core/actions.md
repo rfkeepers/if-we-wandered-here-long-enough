@@ -1,10 +1,12 @@
-# Action Moves
+# Common Actions
 
 Action moves cover the "actions" your character can take.  Summarily: taking things from other characters, getting up in the way of danger, and performing acts of desperation.  It may not seem like much, but these form the whole core of "doing things" in this game.  All the other moves are directed at downtime, information gathering, or clarifying procedures.
 
-If you haven't read the section about what's different in this game yet, you should keep in mind while reading these moves that none of them are intended as a catch-all or act-under-fire kind of action.  That sort of thing gets handled by the conversation, not by rolls.  You can read more about this in (TODO; link).
+If you haven't read the section about what's different in this game yet, you should keep in mind while reading these moves that none of them are intended as a catch-all or act-under-fire kind of action.  That sort of thing gets handled by the conversation, not by rolls.
 
-## Separate
+---
+
+###### Separate
 
 When you try to separate a character from something they have and wouldn't give up willingly (an item, a limb, their authority, a belief, etc), answer the following questions and then roll it.
 
@@ -25,7 +27,9 @@ On a hit, you separate them from it.
 
 0: Maybe you separate it, maybe not.  Either way, the MC gets to make a move as hard as they want.  Prepare for the worst.
 
-## Interfere
+---
+
+###### Interfere
 
 When you put yourself in the path of danger (a sword, an insult, an assassination contract, the marquis, etc) to divert attention or provide protection, roll it (the MC must tell you if you'll get put in danger before you roll).  Regardless of the outcome you take on that problem and all of consequences that come with stepping in front of it.
 
@@ -40,7 +44,9 @@ On 1, choose pick:
 
 0: The MC makes a move; prepare for the worst.
 
-## Risk Everything
+---
+
+###### Risk Everything
 
 When you're desperate enough to trade your survival or standing to get what you want: tell the MC about the crazy stunt you're trying to pull. If they say it's at all possible, decide what sacrifices you're willing to make (answer the questions below).
 
@@ -55,6 +61,6 @@ Are you willing to sacrifice...
 
 Your chosen sacrifices happen no matter what comes next.  You are not allowed to Defy them.  Write those down first, then roll with the sacrifices.
 
-2+: You do it.  Oh, you lucky fool.  You did it.
-1: You do it, but the cost is so much greater than you expected.  Either the MC doubles down on one or more of your sacrifices (pay their price again), or they make a separate move as hard as they want.
+2+: You do it.  Oh, you lucky fool.  You did it.  
+1: You do it, but the cost is so much greater than you expected.  Either the MC doubles down on one or more of your sacrifices (pay their price again), or they make a separate move as hard as they want.  
 0: You didn't do it.  You poor fool, prepare for the worst possible outcome.
