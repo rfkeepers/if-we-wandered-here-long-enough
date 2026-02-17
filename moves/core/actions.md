@@ -10,7 +10,7 @@ If you haven't read the section about what's different in this game yet, you sho
 
 When you try to separate a character from something they have and wouldn't give up willingly (an item, a limb, their authority, a belief, etc), answer the following questions and then roll it.
 
-What are you separating, from whom, and how? Can they be separated from it right now? (If not, do not roll.) Are you going to get put in danger in the process?
+What are you separating, from whom, and how? Can they be separated from it right now? (If not, do not roll.) Are you going to get put in danger or take Harm in the process?
 
 On a hit, you separate them from it.
 

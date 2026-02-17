@@ -12,27 +12,13 @@ That said, this game is not trying to be _Delicious in Dungeons_.  It is interes
 
 ### An experiment
 
-Specifically: what actions require a roll and what abstractions are necessary for conflict resolution?
+Two experiments, really.  First, can you make the conversation itself the primary mode of resolving uncertainty, instead of rolling, by providing systems of negotiation to handle the consequences? Second, can you model NPCs as a collection of obstacles, instead of as an abstraction such as with a clock or HP?
 
-In the wake of the release of Dungeon World 2's alpha (now referred to as version Blue), the DW+ discord was a raucous brawl of ideas. VBlue started the dust-up and we, the gallery, were taking swings at all the fundamentals.  DW2 has since gone down its own (truly fantastic) path, yet in the aftermath I'm still obsessed with all those wonderful conversations.
-
-In particular: does the opportunity to roll set up engagement with pointless actions?  How do you make a statless character in a game like this? And, what is a monster without health, conditions, or clocks?
-
-This gets discussed throughout the text in other places. What I'll say here is that all of this work is dedicated to examining those questions.
+Between the two, the feel of play is bit of a departure from regular PbtA.  If you're curious about insights on that, there are examples and further explanation in  [What Here is Different?](about-this-game/what-different.md).
 
 ## You might enjoy it if
 
 You like western fantasy RP with a narrative focus. You're more interested in people and exploration than combat tactics. You like to approach play as a set of fictional puzzles more than an abstraction of meters. Your table enjoys handing some control of the world over to the players.
-
-## What's different about this game?
-
-Two systems may stand out to veteran PbtA players.  First, NPCs aren't overcome by tracking hp or conditions or clocks. The PCs have to break down their defenses, in fiction, in full detail.  This is explained in detail on the [[rules/npcs.md]] page.
-
-Second, the basic moves in this game are a bit different.  There is an implicit assumption that most actions (really, most of them) get handled without rolling.  The MC makes a move and the conversation continues.  Of the times you do roll (for basic moves, anyway), you're either getting some kind of knowledge, or making one of three very pointed actions: **Separating** them from what they have, **Interfering** with them, or sacrificing what you have to **Risk Everything**.
-
-That may not sound like much, but it ends up playing quite a bit different from other pbta.  The MC makes a lot more moves, both hard and soft, without the players ever making a roll. That can feel pretty weird, if you're not used to it.
-
-If you want to read my whole silly brain-dump on why I'm pushing for these changes (not at all required to play or understand the game), I have that in [[about-this-game/experiments.md]].
 
 ## State of completion
 
@@ -56,7 +42,7 @@ This game lightly deviates from some common structures in PbtA games. In spite o
 
 ## Attributions
 
-### Dungeon World 2 - alpha vBlue:
+##### Dungeon World 2 - alpha vBlue:
 [By Helena Real and Spencer Moore](https://www.dungeon-world.com/)
 
 So much of this work started from tinkering around with the blue version alpha.  I'll get to the list in a second, but first I want to say this: if you're here; and you're a fan of western fantasy rpgs; and you _haven't_, by some weird fault of the universe, checked out Dungeon World 2... go do that right now.  It's fantastic. A better game than this one by any rubric.
@@ -72,17 +58,17 @@ List of things that are (sometimes very) loosely adapted from vBlue.  I might ha
 - The fine-grained structure of features for the: fighter, rogue, wizard, and cleric. Special call out to the Wizard: what a joy it was to read that playbook the first time. I've intentionally kept that one similar because I'm just so in love with it.
 - NPC design tenets, especially the systems of resources and escalations.
 
-### Querent:
-By Otaara (link needed).
+##### Querent:
+By Otaara (Will link in the future).
 
 The full list of conditions is largely a transplant and slight re-imagining of Querent's.  I've shifted things to a set of fictional conditions instead of strictly mechanical penalties. But the core of the design- that conditions are just an extensive list of influential tags rather than a stat-associated checkbox- is all Otaara.
 
-### Grimwild:
+##### Grimwild:
 [By Oddity Press](https://www.drivethrurpg.com/en/product/507201/grimwild-free-edition)
 
 `Traps`, the "clock" system in this game, is a direct adaptation of the `Pools` in _Grimwild_.  Truthfully, I haven't played the game yet, so who knows if it'll feel right. Nonetheless I like the potential for surprise that comes with rolling, rather than ticking, a thing into existence.
 
-### Glitch:
+##### Glitch:
 [By Jenna Moran](https://afarandasunlessland.wordpress.com/)
 
 This is one of the more sideways additions to the game, but the _Attention Tokens_ go to Jenna Moran.  In _Glitch_ the system is a bit less metaphysical and has some in-fiction hooks (though I'm not sure how much that's really saying, given the setting of the game). Here, it's pure meta-gaming.  And, in practice, that's fine by me. The players at my tables like it just fine.
