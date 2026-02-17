@@ -1,6 +1,7 @@
 - [Home](README.md)
 
 - About This Game
+  - [What Here is Different?](about-this-game/what-different.md)
   - [The Setting](about-this-game/setting.md)
   - [Agendas](about-this-game/agendas.md)
   - [Master of Ceremonies](about-this-game/master-of-ceremonies.md)

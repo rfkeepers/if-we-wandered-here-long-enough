@@ -191,7 +191,7 @@ Immediately return to your human form (if you were shifted). You lose touch with
 ###### Feral Instincts
 
 |--- --- ---|------|------|------|--- --- ---|  
-Civil .. -1 .. 0 .. +1 .. +2  ..  Wild
+Civil .. 0 .. +1 .. .. .. +2  ..  Wild
 
 You embody the struggle between wilderness and civilization. Start at 0. When a move says to mark wild, move your mark 1 step to the right. When a move says to mark civil, move it 1 to the left. Anytime the GM makes a move, they may shift your instincts civil or wild by 1.
 

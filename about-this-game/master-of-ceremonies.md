@@ -25,12 +25,13 @@
 - Deal Harm.
 - Damage their Resources.
 - Put people or things in lousy spots.
-- Tell them the consequences, then ask if they follow through.
 - Announce impending trouble.
 - Use an NPC Escalation.
+- Show how an NPC is protected by a resource, then retaliate.
 
 ### Sideways moves
 
+- Tell them the consequences, then ask if they follow through.
 - Make something they want appear behind an obstacle.
 - Bring ancient and current troubles to light.
 - Reveal how their past choices are causing problems.
